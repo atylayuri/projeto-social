@@ -17,7 +17,7 @@ html, body{
 }
 
 body{
-    background: url(../imagens/fundo-madeira.jpg) top center;
+    background: url(../imagens/fundo-madeira.jpg)  center;
     background-size: cover;
     background-attachment: fixed;
 
@@ -51,6 +51,7 @@ iframe#tela {
 
 section#redes-sociais{
     text-align: right;
+
 }
 
 section#redes-sociais img{
